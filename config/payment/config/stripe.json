@@ -1,0 +1,12 @@
+{
+    "description": "Card payment",
+    "secretKey": "sk_test_51KMYwdC13DNbHfiZF8cFeDD0cC4UrUyNqvo4bKjoZp6AQ9N1Mf8cJQADRTl3zbD9Q1XCfnVqda6cUTDywzeJpC8t00hRmjBk1W",
+    "publicKey": "pk_test_51KMYwdC13DNbHfiZC38VJ1sORvk5A3zHpuQoQKo2jyioOWtpBnRqrQgX6ej4gOYQmy1qjbpqxPKsvHTRsXRAjfvC00ghnicGDb",
+    "stripeCurrency": "usd",
+    "stripeDescription": "Jerseyku payment",
+    "stripeLogoURL": "https://upload.wikimedia.org/wikipedia/en/e/eb/Stripe_logo%2C_revised_2016.png",
+    "stripeWebhookSecret": "",
+    "paymentMethods": [
+        "card"
+    ]
+}
